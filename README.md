@@ -10,12 +10,7 @@ I used WTI prices as a way to gauge the economic factors impacting the global oi
 By analyzing the relationship between WTI prices and stock prices, we can infer how global oil price changes affect financial health and stock market performance.
 
 ## To run this notebook:
-1. Clone the repo to your local machine.
-2. Install required Python packages using pip:
-     ```bash
-     pip install yfinance pandas matplotlib scipy
-     ```
-4. Open and Run the Jupyter Notebook
+1. The results of this analysis can be viewed from the stock_price_fluctuations.ipynb file.
 
 ## Results Overview
 The analysis includes:
